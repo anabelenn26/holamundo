@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PerimetroCircunferencia",
+            "request": "launch",
+            "mainClass": "tema2.PerimetroCircunferencia",
+            "projectName": "holamundo_d589c890"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HolaMundo",
+            "request": "launch",
+            "mainClass": "tema2.HolaMundo",
+            "projectName": "holamundo_d589c890"
+        }
+    ]
+}
